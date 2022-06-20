@@ -7,7 +7,7 @@
 | 2 | [cub3D](https://github.com/itonyluke/cub3D) | implement a raycaster with MiniLibX (simple graphical interface library) | `сomputer graphics` `ray-casting rendering algorithm` `parsing` `creation of a bitmap image file (BMP)`
 |   | [ft_server](https://github.com/itonyluke/ft_server) | discover Docker and set up a web server | `basics of system administration` `scripting` `best practices writing Dockerfiles` `Docker CLI` `setting up a web server (NGINX) that runs multiple services: Wordpress, phpMyAdmin, and a SQL database` `further deepening the knowledge of Internet Protocol Suite (SSL and TLS)`
 | 3 | [minishell](https://github.com/itonyluke/minishell) | reimplement bash |
-|   | [philosophers](https://github.com/itonyluke/philosophers) | basics of threading a process: create threads and discover mutexes | `the concept of data racing and how to avoid it`
+|   | [philosophers](https://github.com/itonyluke/philosophers) | basics of threading a process: create threads and discover mutexes | `the concept of data racing and ways to avoid it`
 | 4 | CPP_Modules | nine modules to discover and learn C++ programming language |
 |   | netpractice | a practical exercise to discover networking |
 | 5 | [ft_containers](https://github.com/itonyluke/ft_containers) | reimplementation of C++ containers: stack, vector, map |
